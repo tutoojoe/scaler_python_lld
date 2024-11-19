@@ -1,8 +1,8 @@
-Bank Account Class Implementation in Python
-Problem Statement
+## Bank Account Class Implementation in Python
+### Problem Statement
 You are tasked with creating a Python class for managing bank accounts. The class should encapsulate the functionality required for handling account details and computing interest. Your task is to implement a Bank Account class with the following specifications:
 
-Requirements
+#### Requirements
 The Bank Account class should have three data members:
 accountNumber: String (representing the account number)
 balance: int (representing the current balance)

@@ -1,6 +1,6 @@
 import unittest
 
-from .student_account import Student
+from student_account import Student
 
 
 class TestStudent(unittest.TestCase):

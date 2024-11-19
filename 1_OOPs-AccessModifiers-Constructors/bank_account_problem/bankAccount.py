@@ -13,3 +13,4 @@ class BankAccount:
     #TODO: Implement this method to return the total amount after adding the interest
     def getBalanceWithInterest(self, time):
         return self.balance + self.getSimpleInterest(time)
+    
