@@ -20,5 +20,5 @@ class TestBankAccount(unittest.TestCase):
         self.assertAlmostEqual(self.account.getBalanceWithInterest(2), 1100.0)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main()

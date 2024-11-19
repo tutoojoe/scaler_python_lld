@@ -9,5 +9,6 @@ class TestStudent(unittest.TestCase):
         self.assertEqual(person.name, "Alice")
         self.assertEqual(person.age, 25)
 
+
 if __name__ == "__main__":
     unittest.main()
